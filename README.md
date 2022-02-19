@@ -1,7 +1,13 @@
-abrir a pasta admin no vscode e 
-rodar o json server: 
-```js
-json-server --watch db.json
+# Doguito Petshop
+
+Executar front-end:
+
+```bash
+npm start
 ```
 
-Rodar: browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html
+Executar back-end:
+
+```bash
+npm run api
+```
